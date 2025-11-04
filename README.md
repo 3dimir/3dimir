@@ -5,3 +5,4 @@ Dedicated to becoming a backend developer and aim to constantly grow as a progra
 
 ### Projects
 - [Payroll](https://github.com/3dimir/payroll-system): A simple Java payroll system
+- Currently working on a music playlist manager.
