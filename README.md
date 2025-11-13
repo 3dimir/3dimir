@@ -4,5 +4,5 @@ Dedicated to becoming a backend developer and aim to constantly grow as a progra
 [LinkedIn](https://www.linkedin.com/in/vladislav-lamakin-17a109389/)
 
 ### Projects
-- [Payroll](https://github.com/3dimir/payroll-system): A simple Java payroll system
+- [Payroll](https://github.com/3dimir/payroll-system): A simple Java CLI payroll system
 - Currently working on a CLI music playlist manager.
