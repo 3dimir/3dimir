@@ -3,8 +3,8 @@ Hello 👋 my name is Vlad c:
 I'm currently enrolled as an undergraduate student at University at Albany and studying Computer Science.  
 Dedicated to becoming a Systems/Software Engineer and aim to constantly grow as a programmer.  
 
-When I'm not studying, I enjoy spending time with family and friends. I'm a big foodie, and love to explore many cuisines, both in tasting  
-and in cooking. Baking taught me to be precise and calculated, while cooking proved that sometimes, winging it works just as well (if not better).  
+When I'm not studying, I enjoy spending time with family and friends. I'm a big foodie, and love to explore many cuisines, both in tasting and in preparing.  
+Baking taught me to be precise and calculated, while cooking proved that sometimes, winging it works just as well (if not better).  
 Another huge part of my life is video games. Game development is something I'm open to exploring -- who knows, maybe someday! :]  
 
 ### Projects
